@@ -1,5 +1,5 @@
 .. scrapy-cookbook documentation master file, created by
-   sphinx-quickstart on Mon Jun 20 09:56:50 2022.
+   sphinx-quickstart on Tue Jun 21 22:32:21 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -11,8 +11,7 @@ Welcome to scrapy-cookbook's documentation!
    :caption: Contents:
    
    hello
-   
-
+   hello2
 
 
 
