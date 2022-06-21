@@ -11,7 +11,6 @@ Welcome to scrapy-cookbook's documentation!
    :caption: Contents:
    
    hello
-   hello2
 
 
 
